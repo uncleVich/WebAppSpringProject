@@ -1,0 +1,2 @@
+insert into t_person (id, first_name, last_name) values (t_person_sequence.nextval, 'Name1', 'Person1');
+insert into t_person (id, first_name, last_name) values (t_person_sequence.nextval, 'Name2', 'Person2');
